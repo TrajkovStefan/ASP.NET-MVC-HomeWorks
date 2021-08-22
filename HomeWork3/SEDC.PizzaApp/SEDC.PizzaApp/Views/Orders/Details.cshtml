@@ -1,0 +1,46 @@
+﻿@*@using SEDC.PizzaApp.Models.Domain
+    @model Order*@
+
+@using SEDC.PizzaApp.Models.ViewModels
+@model OrderDetailsViewModel
+
+
+<partial name="~/Views/Shared/Partials/_OrderGreetingPartial.cshtml" />
+
+<h2>Order Details:</h2>
+<h4>@ViewBag.Message</h4>
+
+@{
+    string messageDelivered = string.Empty;
+    if (Model.Delivered)
+    {
+        messageDelivered = "The order is delivered";
+    }
+    else
+    {
+        messageDelivered = "The order was not delivered";
+    }
+}
+<partial name="~/Views/Shared/Partials/_OrderDetailsPartial.cshtml" for="@Model" />;
+
+<h4>The first user in our app is: @ViewBag.User.FirstName</h4>
+@*<p>@messageDelivered</p>*@
+
+@{ if (Model.Delivered)
+    {
+        <p>The order is delivered</p>
+    }
+    else
+    {
+        <p>The order was not delivered</p>
+    }
+
+}
+
+<a asp-action="Index">Back to orders</a> @*Order/Index*@
+@Html.ActionLink("List all orders", "Index"); @*Order/Index*@
+
+<br />
+
+<a asp-controller="Home" asp-action="Index" target="_blank">Back to home</a>
+@Html.ActionLink("Home page", "Index", "Home");

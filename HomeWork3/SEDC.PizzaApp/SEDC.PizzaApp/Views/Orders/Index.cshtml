@@ -1,0 +1,22 @@
+﻿@using SEDC.PizzaApp.Models.ViewModels
+@model List<OrderListViewModel>
+
+<partial name="~/Views/Shared/Partials/_OrderGreetingPartial.cshtml" />
+<a asp-action="CreateOrder">Create Order</a>
+@*@{
+        Layout = "_Layout";
+    }*@
+
+<h2>List of orders:</h2>
+@{
+
+    foreach (OrderListViewModel orderModel in Model)
+    {
+        <p>Pizza name: @orderModel.PizzaName - User: @orderModel.UserFullName</p>
+        <a asp-action="Details" asp-route="@orderModel.Id">See Details</a>
+        <a asp-action="EditOrder" asp-route="@orderModel.Id">Edit Order</a>
+        <a asp-action="Delete" asp-route="@orderModel.Id">Delete Order</a>
+    }
+}
+
+<h6>Date and time: @DateTime.Now.ToShortDateString() @DateTime.Now.ToShortTimeString()</h6>
