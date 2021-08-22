@@ -1,0 +1,12 @@
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.AssemblyReference.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.AssemblyInfoInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.AssemblyInfo.cs
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.deps.json
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.CopyComplete
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb

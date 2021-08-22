@@ -1,0 +1,14 @@
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.deps.json
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.csproj.AssemblyReference.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.AssemblyInfoInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.AssemblyInfo.cs
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.csproj.CopyComplete
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.pdb
