@@ -16,12 +16,11 @@
             </div>
             <div class="form-group">
                 <label asp-for="Price" class="control-label"></label>
-                <input type="checkbox" asp-for="Price" class="form-control" />
+                <input type="number" asp-for="Price" class="form-control" />
             </div>
             <div class="form-group">
                 <label asp-for="IsOnPromotion" class="control-label"></label>
-                @*creates select list with options where value is Id and text is Fullname from the list of UserDDViewModel*@
-                <select asp-for="IsOnPromotion" asp-items="@(new SelectList(ViewBag.Users, "Id", "FullName"))"></select>
+                <input type="checkbox" asp-for="IsOnPromotion" class="form-control" />
             </div>
             <button type="submit" class="btn btn-default">Create</button>
         </form>

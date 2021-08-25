@@ -22,6 +22,8 @@ namespace SEDC.PizzaApp.DataAccess
                     Id=1,
                     Name="Kaprichioza",
                     IsOnPromotion = true,
+                    Price = 200,
+                    PizzaSize = PizzaSizeEnum.Family,
                     PizzaOrders = new List<PizzaOrder>
                     {
 
@@ -32,6 +34,8 @@ namespace SEDC.PizzaApp.DataAccess
                     Id =2,
                     Name = "Pepperoni",
                     IsOnPromotion = false,
+                    Price = 400,
+                    PizzaSize = PizzaSizeEnum.Standard,
                     PizzaOrders = new List<PizzaOrder>
                     {
 
@@ -42,6 +46,8 @@ namespace SEDC.PizzaApp.DataAccess
                     Id=3,
                     Name="Margarita",
                     IsOnPromotion = false,
+                    Price = 600,
+                    PizzaSize = PizzaSizeEnum.Family,
                     PizzaOrders = new List<PizzaOrder>
                     {
                     }
@@ -96,7 +102,8 @@ namespace SEDC.PizzaApp.DataAccess
                             OrderId = 1
                         }
                     },
-                    User = Users[0]
+                    User = Users[0],
+                    UserId = Users[0].Id
                 },
                 new Order
                 {
@@ -115,7 +122,8 @@ namespace SEDC.PizzaApp.DataAccess
                             OrderId  = 2
                         }
                     },
-                    User = Users [1]
+                    User = Users [1],
+                    UserId = Users[1].Id
                 }
             };
 
