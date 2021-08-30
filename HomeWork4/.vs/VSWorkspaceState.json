@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\SEDC.Pizza.App.Refactored",
+    "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.DataAccess",
     "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.Refactored",
     "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.Refactored\\Views",
-    "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.Refactored\\Views\\Order"
+    "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.Refactored\\Views\\Order",
+    "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.Refactored\\Views\\Pizza"
   ],
-  "SelectedNode": "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.Refactored\\Views\\Order\\Index.cshtml",
+  "SelectedNode": "\\SEDC.Pizza.App.Refactored\\SEDC.PizzaApp.DataAccess\\StaticDb.cs",
   "PreviewInSolutionExplorer": false
 }
