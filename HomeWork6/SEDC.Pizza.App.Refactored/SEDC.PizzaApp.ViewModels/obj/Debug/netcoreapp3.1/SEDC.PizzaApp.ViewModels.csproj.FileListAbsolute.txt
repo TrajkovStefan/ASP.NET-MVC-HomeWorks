@@ -1,0 +1,37 @@
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb

@@ -1,0 +1,28 @@
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 6\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+D:\Seavus\ASP.Net Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Kiko\Desktop\STEFAN\ASP.Net MVC Predavanja\Class 8\SEDC.Pizza.App.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
